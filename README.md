@@ -5,7 +5,7 @@ I'm an aspiring dev, student at [MQU](https://www.mq.edu.au/), and part of the [
 ## What I'm learning :seedling:
 
 **Frontend.** Getting the hang of the fundamentals  
-**UX/UI.** Finding out where the buttons go, and the importance of negative space
+**UX/UI.** Finding out where elements go, and the importance of empty space
 
 ## Don't be a stranger :speech_balloon:
 [LinkedIn](https://www.linkedin.com/in/lukecameron/) 
