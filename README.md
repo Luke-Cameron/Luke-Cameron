@@ -1,6 +1,6 @@
 ### Hey, thanks for stopping by, I'm Luke! 👋
 
-I'm an aspiring dev, student at [MQU](https://www.mq.edu.au/), and part of the [WiseTech](https://www.wisetechglobal.com/) talent team in Sydney, AUS.
+I'm an aspiring dev, student at [MQU](https://www.mq.edu.au/), and tech talent at [WiseTech](https://www.wisetechglobal.com/).
 
 ## What I'm learning :seedling:
 
