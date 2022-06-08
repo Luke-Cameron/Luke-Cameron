@@ -1,11 +1,11 @@
-### Hey, thanks for stopping by, I'm Luke! 👋
+## Hey, thanks for stopping by! 👋
 
-I'm an aspiring dev, student at [MQU](https://www.mq.edu.au/), and tech talent at [WiseTech](https://www.wisetechglobal.com/).
+I'm Luke - aspiring dev, student at [MQU](https://www.mq.edu.au/), and tech talent at [WiseTech](https://www.wisetechglobal.com/).
 
-## What I'm learning :seedling:
+### What I'm learning :seedling:
 
-**Frontend.** Getting the hang of the fundamentals  
+**Frontend.** Getting the hang of the fundamentals
 **UX/UI.** Finding out where elements go, and the importance of empty space
 
-## Don't be a stranger :speech_balloon:
-[LinkedIn](https://www.linkedin.com/in/lukecameron/) 
+### Don't be a stranger :speech_balloon:
+[My LinkedIn](https://www.linkedin.com/in/lukecameron/)
